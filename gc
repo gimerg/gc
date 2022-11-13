@@ -1,0 +1,9 @@
+Confira mais informações sobre o Script em: kakazit.com.br
+
+Script 1 > (Slow Level)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/MaxSlow"))()
+
+Script 2 > (Fast Level)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/MaxFast"))()
